@@ -98,7 +98,6 @@
 ## Additional Information
 
 - **Keywords:** Electron, React, TypeScript, SASS, Webpack, Hot Reload
-- **Support:** Report bugs or feature requests [here](https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues)
 - **Documentation:** Detailed API and usage instructions available in the [repository](https://github.com/electron-react-boilerplate/electron-react-boilerplate#readme).
 
 Feel free to adapt and extend this boilerplate for your desktop application needs!
